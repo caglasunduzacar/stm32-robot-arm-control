@@ -20,4 +20,4 @@ This project is a robot arm control system developed using an STM32 microcontrol
 - Embedded systems debugging
 - Hardware-software integration
 
-[main.zip](https://github.com/user-attachments/files/24983159/main.zip)
+
